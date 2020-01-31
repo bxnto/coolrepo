@@ -1,0 +1,13 @@
+Package: com.bxnto.purpleswitch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Benji Ledbetter <benjiled@gmail.com>
+Filename: /purpleswitch.deb
+Size: 3176
+MD5sum: CCF454361D9082A9714D11CD2A037CF9
+SHA1: 390D2F975803B17FA1E1D1CFC3FCA003B3BF8CAE
+SHA256: F7E7039C5B3746E346BAED30FC97F47947AEBE34480439A308C1B6BB34DBB796
+Section: Tweaks
+Description: Makes Switches Purple System Wide!
+Author: Benji Ledbetter <benjiled@gmail.com>
+Name: PurpleSwitch
